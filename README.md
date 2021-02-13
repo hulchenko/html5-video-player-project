@@ -1,0 +1,1 @@
+Project dedicated to Video Player on HTML5 webpage with controls/functionality.
